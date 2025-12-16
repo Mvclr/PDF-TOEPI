@@ -1,0 +1,8 @@
+os
+google-genai
+dotenv
+pandas
+reportlab
+IPython
+json
+time
